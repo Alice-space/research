@@ -1,1 +1,6 @@
 runs/*
+**/__pycache__/
+**/*.pyc
+
+CaloChallenge/data/**
+.DS_Store
